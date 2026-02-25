@@ -1,6 +1,3 @@
-# .github
-Organization profile, governance standards, and architectural overview for Seattle University Web Operations.
-
 # Seattle University – Web Operations
 
 Seattle University Web Operations manages the infrastructure, applications, and integration systems that support the university’s primary web properties:
